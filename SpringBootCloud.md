@@ -10,3 +10,6 @@
 
 ## SpringBoot2.x
 
+### Gradle
+
+grdle tasks 可以列出gradle的命令， bootRun 运行springboot的项目 ，bootJar可以将springboot项目按目录打包成一个包含运行工程项目的jar包（一般打包是用这个命令）
